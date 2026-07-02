@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Lapatafans.aternos.me:",
+    "ip": "Lapatafans.aternos.me",
     "port": 41883,
     "version": "1.21.1"
   },
