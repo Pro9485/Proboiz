@@ -8,7 +8,7 @@
   "server": {
     "ip": "SMP544.aternos.me",
     "port": 58524,
-    "version": "26.2"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Perzuu"
+      "password": "Per000zuu"
     },
     "anti-afk": {
       "enabled": true,
