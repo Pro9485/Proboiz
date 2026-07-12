@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Funsmpnet.aternos.me",
-    "port":12525,
+    "ip": "SMP544.aternos.me",
+    "port":58524,
     "version": "26.1.2"
   },
   "position": {
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Perzuu"
+      "password": "Perz0000u"
     },
     "anti-afk": {
       "enabled": true,
